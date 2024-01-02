@@ -6,6 +6,7 @@ Phone number validation is the process that verifies the correctness of a userâ€
 1. Clone the Repository:
 
 git clone https://github.com/ttebify/react-native-phone-validation.git
+
 2. Install Dependencies:
 
 cd react-native-phone-validation
